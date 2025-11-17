@@ -25,4 +25,4 @@ Instalação dependencias
 npm install
 npm install three
 npm run dev
-
+npx vite
