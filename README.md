@@ -14,9 +14,14 @@ node -v
 npm -v
 ```
 
+Clone
 ```bash
 git clone https://github.com/<usuario>/<repositorio>.git
 cd <repositorio>
+```
+
+Instalação dependencias
+```bash
 npm install
 npm install three
 npm run dev
