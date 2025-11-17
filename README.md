@@ -1,4 +1,4 @@
-# Projeto Three.js
+# Espaço usando webGL
 
 Este é um projeto desenvolvido com [Three.js](https://threejs.org/), uma biblioteca JavaScript poderosa para renderização 3D no navegador.
 A biblioteca 3D Three.js permite escrever aplicações gráficas que são executadas em navegadores da Internet. Isto porque ela utiliza a WebGL.
