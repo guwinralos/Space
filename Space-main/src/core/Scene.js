@@ -3,6 +3,8 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { EXRLoader } from 'three/examples/jsm/loaders/EXRLoader.js';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { BloomPass } from 'three/examples/jsm/Addons.js';
+import { LineSegmentsGeometry } from 'three/addons/lines/LineSegmentsGeometry.js';
+
 
 export class Scene {
     #loader = new THREE.TextureLoader();
