@@ -1,5 +1,5 @@
 
-# 🚀 SPACE — Simulação 3D do Sistema Solar com Nave Pilotável
+# SPACE — Simulação 3D do Sistema Solar com Nave Pilotável
 ![Descrição da imagem](spaceimg.jpeg)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-blue)]()
 [![Vite](https://img.shields.io/badge/Vite-Dev%20Server-purple)]()
@@ -9,17 +9,17 @@
 ---
 ---
 
-# 🎥 **Vídeo de Demonstração**
+# **Vídeo de Demonstração**
 YouTube: https://youtu.be/bZj1B2F4xoU
 
 ---
 
-# 📌 **Descrição Geral**
+# **Descrição Geral**
 Este projeto é uma simulação 3D interativa desenvolvida com **Three.js** e **WebGL**, permitindo que o usuário pilote uma nave através de um sistema solar em escala reduzida (mas proporcional). O cockpit possui visão em primeira pessoa, e também existem modos alternativos de câmera para explorar o sistema solar inteiro.
 
 ---
 
-# 📦 **Pré-requisitos**
+# **Pré-requisitos**
 - **Node.js** 
 - **npm** (vem junto com Node.js)
 
@@ -31,7 +31,7 @@ npm -v
 
 ---
 
-# 📥 **Instalação do Projeto**
+# **Instalação do Projeto**
 Clone o repositório:
 ```bash
 git clone https://github.com/<usuario>/<repositorio>.git
@@ -53,7 +53,7 @@ npx vite
 
 ---
 
-# 🎮 **Como Jogar**
+# **Como Jogar**
 ### **Controles da Nave**
 | Tecla | Ação |
 |-------|-------|
@@ -70,7 +70,7 @@ npx vite
 
 ---
 
-# 🌍 **Escala dos Planetas e Distâncias**
+# **Escala dos Planetas e Distâncias**
 A simulação utiliza **proporções reduzidas** para manter as relações do sistema solar.
 
 ## **Tamanhos dos Planetas (Escala do Código)**
@@ -102,7 +102,7 @@ A simulação utiliza **proporções reduzidas** para manter as relações do si
 
 ---
 
-# 🗂️ **Estrutura do Projeto**
+# **Estrutura do Projeto**
 ```
 Space/
 ├── node_modules/
@@ -128,10 +128,10 @@ Space/
 
 ---
 
-# 🎧 **Créditos e Licenças**
+#  **Créditos e Licenças**
 ## **Modelos 3D**
-- *Cockpit*: "Sci-fi Spaceship Cockpit 02" — CC BY 4.0
-- *Nave Externa*: "SpaceShip" — CC BY 4.0
+- *Cockpit*: "Sci-fi Spaceship Cockpit 02" [https://skfb.ly/6VrVK] — CC BY 4.0
+- *Nave Externa*: "SpaceShip" [https://skfb.ly/oJrVX] — CC BY 4.0
 
 ## **Texturas**
 - https://www.solarsystemscope.com/textures/
@@ -143,7 +143,7 @@ Space/
 
 
 
-# 🚧 **Próximos Recursos**
+#  **Próximos Recursos**
 - Sistema de colisão
 - HUD do cockpit
 - Exibição de dados dos planetas
@@ -152,7 +152,7 @@ Space/
 
 ---
 
-# ✨ **Tecnologias Utilizadas**
+#  **Tecnologias Utilizadas**
 - Three.js
 - WebGL
 - Vite
