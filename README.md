@@ -7,6 +7,12 @@
 [![License](https://img.shields.io/badge/License-CC--BY%204.0-yellow)]()
 
 ---
+---
+
+# 🎥 **Vídeo de Demonstração**
+YouTube: https://youtu.be/bZj1B2F4xoU
+
+---
 
 # 📌 **Descrição Geral**
 Este projeto é uma simulação 3D interativa desenvolvida com **Three.js** e **WebGL**, permitindo que o usuário pilote uma nave através de um sistema solar em escala reduzida (mas proporcional). O cockpit possui visão em primeira pessoa, e também existem modos alternativos de câmera para explorar o sistema solar inteiro.
@@ -135,12 +141,7 @@ Space/
 - Engine Loop — Google Drive
 - Ambient Space — Google Drive
 
----
 
-# 🎥 **Vídeo de Demonstração**
-YouTube: https://youtu.be/bZj1B2F4xoU
-
----
 
 # 🚧 **Próximos Recursos**
 - Sistema de colisão
