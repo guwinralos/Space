@@ -1,6 +1,6 @@
 # 🚀 **SPACE - Simulação Espacial em Three.js**
 
-```md
+
 # 🚀 SPACE — Simulação 3D do Sistema Solar com Nave Pilotável
 
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-blue)]()
