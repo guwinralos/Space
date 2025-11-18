@@ -5,7 +5,7 @@
 
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-blue)]()
 [![Vite](https://img.shields.io/badge/Vite-Dev%20Server-purple)]()
-[![Node](https://img.shields.io/badge/Node.js-LTS-green)]()
+[![Node.js](https://img.shields.io/badge/Node.js-LTS-green)]()
 [![License](https://img.shields.io/badge/License-CC--BY%204.0-yellow)]()
 
 ---
@@ -16,7 +16,7 @@ Este projeto é uma simulação 3D interativa desenvolvida com **Three.js** e **
 ---
 
 # 📦 **Pré-requisitos**
-- **Node.js** (versão LTS recomendada)
+- **Node.js** 
 - **npm** (vem junto com Node.js)
 
 Verifique as versões:
@@ -43,7 +43,7 @@ npm install three
 Execute o ambiente de desenvolvimento:
 ```bash
 npm run dev
-# ou
+
 npx vite
 ```
 
@@ -158,6 +158,4 @@ YouTube: https://youtu.be/bZj1B2F4xoU
 - WebGL
 - Vite
 - Node.js
-- GLTFLoader
-- Modelos GLB
-- Texturas externas
+
