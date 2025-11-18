@@ -1,6 +1,6 @@
 
 # 🚀 SPACE — Simulação 3D do Sistema Solar com Nave Pilotável
-
+![Descrição da imagem](spaceimg.jpeg)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-blue)]()
 [![Vite](https://img.shields.io/badge/Vite-Dev%20Server-purple)]()
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-green)]()
