@@ -1,5 +1,3 @@
-# 🚀 **SPACE - Simulação Espacial em Three.js**
-
 
 # 🚀 SPACE — Simulação 3D do Sistema Solar com Nave Pilotável
 
